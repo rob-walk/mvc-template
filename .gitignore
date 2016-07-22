@@ -1,0 +1,16 @@
+.vs/
+packages/
+
+Mvc.Web/bin/
+Mvc.Web/obj/
+Mvc.Web/App_Data/
+
+Mvc.Common/bin/
+Mvc.Common/obj/
+
+Database/bin/
+Database/obj/
+Database/Database.dbmdl
+
+
+
